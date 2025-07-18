@@ -5,8 +5,8 @@ import HeroSection from "@/components/HeroSection";
 import ProductShowcase from "@/components/ProductShowcase";
 import ShotOnSection from "@/components/ShotOnSection";
 import InnovationSection from "@/components/InnovationSection";
-import NewsSection from "./components/NewsSection";
-import ExploreProductsSection from "./components/ExploreProductsSection";
+import NewsSection from "@/components/NewsSection";
+import ExploreProductsSection from "@/components/ExploreProductsSection";
 import SupportSection from "./components/SupportSection";
 import CookieBanner from "./components/CookieBanner";
 
