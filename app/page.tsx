@@ -7,7 +7,7 @@ import ShotOnSection from "@/components/ShotOnSection";
 import InnovationSection from "@/components/InnovationSection";
 import NewsSection from "@/components/NewsSection";
 import ExploreProductsSection from "@/components/ExploreProductsSection";
-import SupportSection from "./components/SupportSection";
+import SupportSection from "@/components/SupportSection";
 import CookieBanner from "./components/CookieBanner";
 
 function App() {
