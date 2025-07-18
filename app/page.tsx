@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
-import ProductShowcase from "./components/ProductShowcase";
+import ProductShowcase from "@/components/ProductShowcase";
 import ShotOnSection from "./components/ShotOnSection";
 import InnovationSection from "./components/InnovationSection";
 import NewsSection from "./components/NewsSection";
