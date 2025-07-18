@@ -8,7 +8,7 @@ import InnovationSection from "@/components/InnovationSection";
 import NewsSection from "@/components/NewsSection";
 import ExploreProductsSection from "@/components/ExploreProductsSection";
 import SupportSection from "@/components/SupportSection";
-import CookieBanner from "./components/CookieBanner";
+import CookieBanner from "@/components/CookieBanner";
 
 function App() {
   const [showCookieBanner, setShowCookieBanner] = useState(false);
